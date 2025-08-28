@@ -46,6 +46,8 @@ console.log(1 + 2 + "3");
 
 console.log((3 + 2) * 5 % 3);
 console.log(+true);
+console.log(1+"2"+(3+2));
+
 
 
 
